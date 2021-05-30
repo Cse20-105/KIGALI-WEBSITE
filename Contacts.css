@@ -1,0 +1,46 @@
+header{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+}
+.container{
+    position:relative;
+    width: auto;
+}
+.topnav{
+    background-color:  #8c3e01;
+    overflow: hidden;
+    width: 100%;
+}
+.topnav a{
+    text-decoration: none;
+    color: #f2f2f2;
+    font-size: 1.8vw;
+    padding: 10px 50px;
+    display: inline-block;
+}
+.topnav a:hover{
+    background-color: #ddd;
+    color: black;
+}
+.menu h1{
+    text-align: center;
+    color: white;
+    padding: 150px;
+    font-size: 60px;
+}
+.details{
+    background-color: rgb(113, 218, 218);
+    text-align: center;
+    padding: 6%;
+}
+footer{
+    background-color: #444;
+    color:white;
+    margin-top:1px;
+    text-align: center;
+    padding: 1%;
+    font-size: 1.8vw;
+}
